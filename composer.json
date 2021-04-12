@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.0"
     },
-    "license": "MIT Licence",
+    "license": "MIT",
     "authors": [
         {
             "name": "Roman Cisneros",
