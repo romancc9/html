@@ -11,10 +11,11 @@ $ composer require romancc9/html
 
 ## Usage
 Create a DIV with some text.
+
 ```php
 <?php
 
-use Romancc9\Html;
+use Rcc\Html\Tags\Div;
 
 $div = new Div(10);
 echo (new Div())->appendText('Hello, I am a Div')->toHtml();
