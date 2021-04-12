@@ -1,0 +1,16 @@
+{
+    "name": "romancc9/html",
+    "description": "Allows generate HTML Dom elements using PHP object oriented programming.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT Licence",
+    "authors": [
+        {
+            "name": "Roman Cisneros",
+            "email": "romancc9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
